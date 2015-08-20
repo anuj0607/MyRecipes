@@ -16,5 +16,5 @@
 !/log/.keep
 /tmp
 
-#Ignore all cloud9 and hidden files
+# Ignore all cloud9 and hidden files
 .c9/
